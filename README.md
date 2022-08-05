@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goutham-kanala
 - 👀 I’m interested in Technology & fine arts
-- 🌱 I’m currently learning terraform
+- 🌱 I’m currently learning terraform.io
 - 💞️ I’m looking to collaborate on DevOps & Blockchain
 - 📫 Reach me on gowtham.reddy675@gmail.com
 
